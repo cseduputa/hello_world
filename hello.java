@@ -8,7 +8,7 @@ public class hello {
         String firstName = "Chisom";
         String lastName = "Sunny-Eduputa";
 	
-        System.out.println("Hello Class!");
+        System.out.println("Hello, my name is " + firstName + " " + lastName + ".");
 
 
 
